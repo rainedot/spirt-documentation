@@ -19,5 +19,5 @@ Small LUA guide we recommend for new developers: [Learn LUA](http://tylerneylon.
 
 Feel free to contact us:
 
-- [Issues (ссылку сюда актуал вставьте)](https://github.com/neverlosecc/api-documentation/issues)
-- [Pull Requests (ссылку сюда актуал вставьте)](https://github.com/neverlosecc/api-documentation/pulls)
+- [Issues](https://github.com/neverlosecc/spirt-documentation/issues)
+- [Pull Requests](https://github.com/neverlosecc/spirt-documentation/pulls)
